@@ -1,3 +1,4 @@
+#only master
 require 'greeter'
 
 #Default is world
