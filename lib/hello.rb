@@ -1,3 +1,4 @@
+#only in greet
 require 'greeter'
 
 #Default is world
